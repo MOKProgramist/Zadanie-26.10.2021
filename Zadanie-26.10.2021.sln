@@ -3,7 +3,22 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie-26.10.2021", "Zadanie-26.10.2021\Zadanie-26.10.2021.csproj", "{C93FF8A4-C575-4C31-BEEF-992C4F99567A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Оценки", "Zadanie-26.10.2021\Оценки.csproj", "{C93FF8A4-C575-4C31-BEEF-992C4F99567A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Дни недели", "Дни недели\Дни недели.csproj", "{840D0C62-0996-4822-8D17-5961678EC9B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Калькулятор простой", "Калькулятор простой\Калькулятор простой.csproj", "{FA75C4DF-AB92-4765-84C2-6ADB0C22A3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Кальлятор cos, sin, log", "Кальлятор cos, sin, log\Кальлятор cos, sin, log.csproj", "{23104340-8D7D-4B8E-BBBF-BCD59BEE8D43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9A3F4DCE-F85E-42E7-8C0F-15ED42330EF0}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Нахождение функции", "Нахождение функции\Нахождение функции.csproj", "{7FAD1956-A7BA-4B95-BA5B-604E0D8B4942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Нахождение функции 2.0", "Нахождение функции 2.0\Нахождение функции 2.0.csproj", "{04AD524C-B96B-4E2D-8642-4EB23EB9EAD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +30,26 @@ Global
 		{C93FF8A4-C575-4C31-BEEF-992C4F99567A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C93FF8A4-C575-4C31-BEEF-992C4F99567A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C93FF8A4-C575-4C31-BEEF-992C4F99567A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{840D0C62-0996-4822-8D17-5961678EC9B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{840D0C62-0996-4822-8D17-5961678EC9B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{840D0C62-0996-4822-8D17-5961678EC9B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{840D0C62-0996-4822-8D17-5961678EC9B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA75C4DF-AB92-4765-84C2-6ADB0C22A3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA75C4DF-AB92-4765-84C2-6ADB0C22A3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA75C4DF-AB92-4765-84C2-6ADB0C22A3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA75C4DF-AB92-4765-84C2-6ADB0C22A3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23104340-8D7D-4B8E-BBBF-BCD59BEE8D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23104340-8D7D-4B8E-BBBF-BCD59BEE8D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23104340-8D7D-4B8E-BBBF-BCD59BEE8D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23104340-8D7D-4B8E-BBBF-BCD59BEE8D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FAD1956-A7BA-4B95-BA5B-604E0D8B4942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FAD1956-A7BA-4B95-BA5B-604E0D8B4942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FAD1956-A7BA-4B95-BA5B-604E0D8B4942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FAD1956-A7BA-4B95-BA5B-604E0D8B4942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04AD524C-B96B-4E2D-8642-4EB23EB9EAD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04AD524C-B96B-4E2D-8642-4EB23EB9EAD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04AD524C-B96B-4E2D-8642-4EB23EB9EAD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04AD524C-B96B-4E2D-8642-4EB23EB9EAD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
